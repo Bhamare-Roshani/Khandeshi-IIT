@@ -1,7 +1,4 @@
-------------------------------------------------------------------------------- 
-Name  :  Bhamare Roshani Dnyaneshwar 
-Class  :  MCA (III Sem) 
-RollNo :  05 ------------------------------------------------------------------------------- 
+
 Practical 1: 
 Write a program for creating Max Heap using INSERT 
 #include<iostream> 
